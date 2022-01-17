@@ -3134,3 +3134,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.17-19.24.58:112][594]LogEditorTransaction: Undo Move Node
 [2022.01.17-19.24.59:540][686]LogEditorTransaction: Undo Move Node
 [2022.01.17-19.25.00:181][731]LogEditorTransaction: Undo Add Pin
+[2022.01.17-19.28.32:718][516]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.01.17-19.28.32:724][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Draft/Maps/Testing" FILE="D:/UE4/UnrealProject/main/TGJProject/Saved/Autosaves/Game/Draft/Maps/Testing_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.17-19.28.33:053][516]LogSavePackage: Moving 'D:/UE4/UnrealProject/main/TGJProject/Saved/Testing_Auto4D5C2C8D84BB3C5F3D404FB89883EDCE0.tmp' to 'D:/UE4/UnrealProject/main/TGJProject/Saved/Autosaves/Game/Draft/Maps/Testing_Auto4.umap'
+[2022.01.17-19.28.33:060][516]LogFileHelpers: No new changes to save!
+[2022.01.17-19.28.33:067][516]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Draft/Maps/Testing' took 0.380
+[2022.01.17-19.28.33:067][516]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.380
+[2022.01.17-19.28.33:067][516]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_ParallaxScrolling] ([4] browsable assets)...
+[2022.01.17-19.28.33:081][516]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_ParallaxScrolling.BP_ParallaxScrolling]
+[2022.01.17-19.28.33:095][516]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_ParallaxScrolling.BP_ParallaxScrolling]
+[2022.01.17-19.28.33:095][516]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_ParallaxScrolling]
+[2022.01.17-19.28.33:608][516]LogSavePackage: Moving 'D:/UE4/UnrealProject/main/TGJProject/Saved/BP_ParallaxScrolling_Auto48C70DBCA4C27BF1694449496A2BFE0CE.tmp' to 'D:/UE4/UnrealProject/main/TGJProject/Saved/Autosaves/Game/Blueprint/BP_ParallaxScrolling_Auto4.uasset'
+[2022.01.17-19.28.33:617][516]LogFileHelpers: Auto-saving content packages took 0.550
